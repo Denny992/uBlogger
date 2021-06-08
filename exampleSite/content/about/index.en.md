@@ -5,36 +5,28 @@ math:
   enable: true
 
 ---
-{{< style "img { height: 1.25rem; }" >}}
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/upagge/uBlogger?style=flat-square)](https://github.com/upagge/uBlogger/releases)
-[![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-[![License](https://img.shields.io/github/license/upagge/uBlogger?style=flat-square)](https://github.com/upagge/uBlogger/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/upagge/uBlogger?style=social)](https://github.com/upagge/uBlogger)
-[![GitHub forks](https://img.shields.io/github/forks/upagge/uBlogger?style=social)](https://github.com/upagge/uBlogger/fork)
 {{< /style >}}
 
-> [:(far fa-kiss-wink-heart fa-fw): uBlogger](https://github.com/upagge/uBlogger) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/) developed by [uPagge](https://upagge.ru).
->
-> It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
+> Hi! Im Daniele and i am an enthusiast of te IT world. I work as a system administrator in a consultant agency. In my freetime i love modding, translate and playing videogames.
 
-![Hugo Theme uBlogger](/images/Apple-Devices-Preview.png "Hugo Theme uBlogger")
+![Hugo Theme uBlogger](/images/Apple-Devices-Preview.png "Hugo Theme uBlogger") 
 
 ### Features
 
 #### Performance and SEO
 
-* :(fas fa-rocket fa-fw): Optimized for **performance**: [99]/[100] on mobile and [100]/[100] on desktop in [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
+* :(fas fa-rocket fa-fw): Optimized for **performance**: \[99\]/\[100\] on mobile and \[100\]/\[100\] on desktop in [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
 * :(fab fa-searchengin fa-fw): Optimized SEO performance with a correct **SEO SCHEMA** based on JSON-LD
-* :(fab fa-google fa-fw): **[Google Analytics](https://analytics.google.com/analytics)** supported
-* :(far fa-chart-bar fa-fw): **[Fathom Analytics](https://usefathom.com/)** supported
+* :(fab fa-google fa-fw): [**Google Analytics**](https://analytics.google.com/analytics) supported
+* :(far fa-chart-bar fa-fw): [**Fathom Analytics**](https://usefathom.com/) supported
 * :(fas fa-search fa-fw): Search engine **verification** supported (Google, Bind, Yandex and Baidu)
 * :(fas fa-tachometer-alt fa-fw): **CDN** for third-party libraries supported
 * :(fas fa-cloud-download-alt fa-fw): Automatically converted images with **Lazy Load** by [lazysizes](https://github.com/aFarkas/lazysizes)
 
 #### Appearance and Layout
 
-* [:(fas fa-desktop):]/[:(fas fa-mobile):] **Responsive** layout
-* [:(fas fa-sun):]/[:(fas fa-moon):] **[Light]/[Dark]** mode
+* \[:(fas fa-desktop):\]/\[:(fas fa-mobile):\] **Responsive** layout
+* \[:(fas fa-sun):\]/\[:(fas fa-moon):\] **\[Light\]/\[Dark\]** mode
 * :(fas fa-layer-group fa-fw): Globally consistent **design language**
 * :(fas fa-ellipsis-h fa-fw): **Pagination** supported
 * :(far fa-list-alt fa-fw): Easy-to-use and self-expanding **table of contents**
@@ -63,7 +55,7 @@ math:
 * :(far fa-copy fa-fw): **Copy code** to clipboard with one click
 * :(far fa-sticky-note fa-fw): Extended Markdown syntax for **ruby annotation**
 * :(fas fa-percentage fa-fw): Extended Markdown syntax for **fraction**
-* :(fas fa-square-root-alt fa-fw): **Mathematical formula** supported by [$ \KaTeX $](https://katex.org/)
+* :(fas fa-square-root-alt fa-fw): **Mathematical formula** supported by [$ \\KaTeX $](https://katex.org/)
 * :(fas fa-project-diagram fa-fw): **Diagrams** shortcode supported by [mermaid](https://github.com/knsv/mermaid)
 * :(fas fa-chart-pie fa-fw): **Interactive data visualization** shortcode supported by [ECharts](https://echarts.apache.org/)
 * :(fas fa-map-marked-alt fa-fw): **Mapbox** shortcode supported by [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
@@ -98,7 +90,7 @@ Thanks to the authors of following resources included in the theme:
 * [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
 * [clipboard.js](https://github.com/zenorocha/clipboard.js)
 * [Sharer.js](https://github.com/ellisonleao/sharer.js)
-* [$ \KaTeX $](https://katex.org/)
+* [$ \\KaTeX $](https://katex.org/)
 * [mermaid](https://github.com/knsv/mermaid)
 * [ECharts](https://echarts.apache.org/)
 * [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
