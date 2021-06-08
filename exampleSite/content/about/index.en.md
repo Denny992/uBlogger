@@ -7,6 +7,4 @@ math:
 ---
 {{< /style >}}
 
-> Hi! Im Daniele and i am an enthusiast of te IT world. I work as a system administrator in a consultant agency. In my freetime i love modding, translate and playing videogames.
-
-![Hugo Theme uBlogger](/images/Apple-Devices-Preview.png "Hugo Theme uBlogger") 
+> Hi! Im Daniele and i am an enthusiast of te IT world. I work as a system administrator in a consultant agency. In my freetime i love modding, translate and playing videogames. 
