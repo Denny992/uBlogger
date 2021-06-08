@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: exampleSite/content/about
-  label: About
+  label: About ME
   create: all
   match: "**/*"
 - type: directory
